@@ -2,7 +2,7 @@ const { Result } = require('express-validator');
 const User = require('../models/userModel');
 const ExcelJS = require('exceljs');
 
-class UserController{
+class {
 
     static async getAllUsers(req, res)
     {
