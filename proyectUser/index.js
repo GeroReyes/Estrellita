@@ -1,5 +1,5 @@
 
-const userRoutes = require('./routes/userRoutes');
+
 const user = require('./models/userModel');
 require('dotenv').config();
 
